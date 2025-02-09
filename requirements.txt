@@ -69,7 +69,7 @@ python-socketio==5.11.3
 pyttsx3==2.91
 pytweening==1.2.0
 pytz==2024.1
-pywin32==306
+#pywin32==306
 requests==2.32.3
 safetensors==0.5.2
 scikit-learn==1.5.2
